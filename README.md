@@ -4,4 +4,4 @@
 
 ------
 
-Pint strict preset is an insanely defensive coding style preset for those who demand meticulous precision in their projects. To use it
+Pint strict preset is an insanely defensive coding style preset for those who demand meticulous precision in their projects.
